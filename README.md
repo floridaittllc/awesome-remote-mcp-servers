@@ -458,6 +458,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Mailcheer](https://mailcheer.com) `https://mailcheer.com/api/mcp`
   [![Mailcheer MCP connector](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer)
   🔓 - Send transactional email, manage subscribers and schedule campaigns; tool calls use a Mailcheer API key.
+- [Mailroom](https://usemailroom.app/?utm_source=awesome-remote-mcp-servers) `https://usemailroom.app/mcp`
+  [![Mailroom MCP connector](https://glama.ai/mcp/connectors/app.usemailroom/mailroom/badges/score.svg)](https://glama.ai/mcp/connectors/app.usemailroom/mailroom)
+  🔑 - Search, read, flag, move and send mail in your own IMAP/SMTP mailbox; sends preview until confirm=true.
 - [meld](https://meld.mergeinc.workers.dev) `https://meld.mergeinc.workers.dev/mcp`
   [![meld MCP connector](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lemonaide152/meld)
   🔓 - Capability URL + TTL context bridge; host-readable while live; anyone with the link; not for secrets.
